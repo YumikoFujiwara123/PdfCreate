@@ -36,15 +36,15 @@ CSVファイルを読み込み、
 
 ### メイン画面
 
-![メイン画面](./images/main.png)
+![メイン画面](./images/menu.png)
 
 ### 成績順位表
 
-![順位表](./images/ranking.png)
+![順位表](./images/junnihyou.png)
 
 ### 個人別成績表
 
-![個人成績表](./images/personal.png)
+![個人成績表](./images/kojinbetu.png)
 
 ---
 
